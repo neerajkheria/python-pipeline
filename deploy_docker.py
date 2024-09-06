@@ -29,6 +29,6 @@ if __name__ == "__main__":
 	host = '3.92.134.168'
 	port = 22
 	username = 'ubuntu'
-	key_file = 'my-key.pem'
+	key_file = 'key.pem'
 
 	deploy_docker_image(host, username, key_file)
