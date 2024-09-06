@@ -1,0 +1,14 @@
+attrs
+Automat
+Babel
+bcc
+bcrypt
+blinker
+certifi
+chardet
+click
+Flask
+Jinja2
+pytest
+paramiko
+
